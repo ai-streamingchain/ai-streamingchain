@@ -12,6 +12,7 @@
 ## My core Skill
 - NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
 - NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
+- React Native & Flutter & Ionic
 - PostgreSQL & MongoDB (DB structure design for big data)
 - SupaBase & FireBase
 - Blockchain(Web3Js, Solidity, Solana, Smart Contract) & AI(Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG, ) 
