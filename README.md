@@ -1,21 +1,22 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Upwork.
-- 🌱 I’m currently learning Open AI & Blockchain technology.
-- 👯 I’m looking to collaborate on Blockchain space
+- 🌱 I’m currently implementing AI & Blockchain technology in the world.
+- 👯 I’m looking to collaborate on AI & Blockchain space
 - 🤔 I’m looking for help with you.
-- 💬 Ask me about blockchain(Dex, staking, bridge, launchpad for presale, token auto launch, ...)
+- 💬 Ask me about AI(AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) blockchain(Dex, staking, bridge, launchpad for presale, token auto launch, ...)
 - 📫 How to reach me: streaming0214@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Life in Working
 
 ## My core Skill
+- AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
+- Web3Js, Solidity, Solana, Smart Contract 
 - NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
 - NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
 - React Native & Flutter & Ionic
 - PostgreSQL & MongoDB (DB structure design for big data)
-- SupaBase & FireBase
-- Blockchain(Web3Js, Solidity, Solana, Smart Contract) & AI(Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) 
+- SupaBase & FireBase & Vercel
 - AWS service(EC2, S3, RDS, Lambda, Scaling & Load balancing)
 - Git & CI/CD & Docker/Kubernets & Vercel/Netlify/Heroku
 
