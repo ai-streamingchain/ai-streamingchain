@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Life in Working
 
 ## My core Skill
-- AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
+- Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
 - Web3Js, Solidity, Solana, Smart Contract 
 - NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
 - NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
