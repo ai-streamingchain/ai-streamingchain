@@ -15,7 +15,7 @@
 - React Native & Flutter & Ionic
 - PostgreSQL & MongoDB (DB structure design for big data)
 - SupaBase & FireBase
-- Blockchain(Web3Js, Solidity, Solana, Smart Contract) & AI(Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG, ) 
+- Blockchain(Web3Js, Solidity, Solana, Smart Contract) & AI(Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) 
 - AWS service(EC2, S3, RDS, Lambda, Scaling & Load balancing)
 - Git & CI/CD & Docker/Kubernets & Vercel/Netlify/Heroku
 
