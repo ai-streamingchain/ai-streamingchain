@@ -20,29 +20,30 @@
 - Git & CI/CD & Docker/Kubernets & Vercel/Netlify/Heroku
 
 ## My History
-### DEC. 2022 – DEC. 2024 (SMART CONTRACT & BACKEND DEVELOPER)
-### BLOCKCHAIN BACKEND SERVICE, SPHYNX COMPANY
-The Sphynx Company was found in 2021 is start up company, they had good idea to implement DEX, presale, bridge, farm & pool for web 3.0 in blockchain field. I involved the project with the sphynx team with my experience and maintenance the website. Updated the features for DEX, presale, bridge, farm & pool on live service, so that I should implement codes in smart contract perfectly. It was working well and the Sphynx CTO was my friend. Now waiting a new feature from the sphynx company and find another job. 
-All service was launched on production in August 2022 and is working well without any issue.
-The Clutch Company website URL is https://thesphynx.co. 
+### APR. 2023 – DEC. 2024 (SOLANA SMART CONTRACT & BACKEND DEVELOPER)
+### BLOCKCHAIN BACKEND SERVICE, RAYDIUM COMPANY
+The Raydium Company was found in 2021 is start up company, they had good idea for web 3.0 in solana network. I involved the project on smart contract developer role and implemented the solana smart contract protocol for Raydium and integrate it with frontend using web3js. All service was launched on production in November 2021 and is working well without any issue.
+The Clutch Company website URL is https://raydium.io 
 
 
-### APR. 2022 – NOV. 2022 (MAIN DEVELOPER)
-### BLOCKCHAIN BACKEND SERVICE, CLUCTH COMPANY
+### NOV. 2022 – MAR. 2023 (SMART CONTRACT & WEB3JS & REACTJS DEVELOPER)
+### BLOCKCHAIN PLATFORM, SPHYNX COMPANY
+The Sphynx Company was found in 2021 is start up company, they had good idea for web 3.0 in EVM networks. I involved the project with a team and implemented smart contract protocols and integrated web3js with frontend in swap, pool & farm, bridge, launchpad for presale. The sphynx has the own backend service using Rust and Golang like Bitquery, Quick Node, Moralis, Infura, Alchemy, and etc. All service was launched on production in November 2021 and is working well without any issue.
+The Sphynx Company service URL is https://thesphynx.co.
+
+
+### APR. 2022 – OCT. 2022 (BLOCKCHAIN BACKEND DEVELOPER)
+### BLOCKCHAIN WALLET, CLUTCH COMPANY
 The Clutch Company was found in 2021 is start up company, they had good idea for web 3.0 in blockchain field. I involved the project with my team and implemented the own backend service using Golang like Bitquery, Quick Node, Moralis, Infura, Alchemy, and etc. At first, they used the third part service, but it was very slow and so expensive for their project. I suggested my opinion to build own backend service and they agreed for it. I handled big data more than few billions, stored own database, and implemented quick search engine. 
 All service was launched on production in August 2022 and is working well without any issue.
 The Clutch Company website URL is https://clutchwallet.xyz and the clutch wallet site URL is https://app.clutchwallet.xyz
 
-### MAY. 2021 – MAR. 2022 (SMART CONTRACT DEVELOPER )
-### BLOCKCHAIN PLATFORM, PAYBOLT COMPANY
-The PayBolt Company was found in 2021 and the origin name was BNBPay company. They provided marketing using crypto currency and had good idea for web 3.0 in crypto currency payment. I involved the project with my team on manager position and implemented IDO/ICO platform for token presale, bridge swap platform for cross-coin, and staking platform. And also, I implemented the backend service to fetch all event for service wallets of PayBolt company and it used their payment system.
-All service was launched on production in MAR 2022 and is working well without any issue.
-The PayBolt Company website URL is  https://www.paybolt.com and the service site URL is https://app.paybolt.com
 
-
-### SEP. 2021 – NOV. 2021 (MAIN DEVELOPER)
+### AUG. 2020 – FEB. 2022 (MAIN DEVELOPER)
 ### BLOCKCHAIN WALLET, TRIBE WALLET COMPANY
-EOS Tribe wallet company was found in 2020 and supported several blockchain networks like EOS, Stellar, FIO, Algorand, and etc on mobile. I entered in the company as blockchain developer and worked to add EVM networks like Ethereum, Bianance, Polygon, Aurora, and etc. They cooperated with service of several companies, so I should integrate a lot of services on the mobile wallet. Tribe wallet support unstoppedable domain and contain NFT, staking, and swap features with own backend. 
+EOS Tribe wallet company was found in 2020 and supported several blockchain networks like EOS, Stellar, FIO, Algorand, and etc on mobile. I entered in the company as blockchain developer and worked to add EVM networks like Ethereum, Bianance, Polygon, Aurora, and etc. They cooperated with service of several companies, so I should integrate a lot of services on the mobile wallet. Tribe wallet support unstoppedable domain and contain NFT, staking, and swap features with own backend.
 Tribe wallet is maintained by my team now and kept on updating version.
 The Tribe wallet Company website URL is  https://cryptotribe.io and the wallet downloading URL is https://www.tribewallet.io
+
+
 
