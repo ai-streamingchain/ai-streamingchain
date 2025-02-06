@@ -4,13 +4,13 @@
 - 🌱 I’m currently implementing AI & Blockchain technology in the world.
 - 👯 I’m looking to collaborate on AI & Blockchain space
 - 🤔 I’m looking for help with you.
-- 💬 Ask me about AI(AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) blockchain(Dex, staking, bridge, launchpad for presale, token auto launch, ...)
+- 💬 Ask me about AI(Stable Diffusion, DALL·E, ChatGTP, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) blockchain(Dex, staking, bridge, launchpad for presale, token auto launch, ...)
 - 📫 How to reach me: streaming0214@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Life in Working
 
 ## My core Skill
-- Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
+- Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
 - Web3Js, Solidity, Solana, Smart Contract 
 - NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
 - NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
