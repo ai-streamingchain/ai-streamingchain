@@ -21,10 +21,10 @@
 - Git & CI/CD & Docker/Kubernets & Vercel/Netlify/Heroku
 
 ## My History
-### APR. 2023 – DEC. 2024 (SOLANA SMART CONTRACT & BACKEND DEVELOPER)
-### BLOCKCHAIN BACKEND SERVICE, RAYDIUM COMPANY
-The Raydium Company was found in 2021 is start up company, they had good idea for web 3.0 in solana network. I involved the project on smart contract developer role and implemented the solana smart contract protocol for Raydium and integrate it with frontend using web3js. All service was launched on production in November 2021 and is working well without any issue.
-The Clutch Company website URL is https://raydium.io 
+### APR. 2023 – DEC. 2024 (AI API Integration & BACKEND DEVELOPER)
+### AI STORYBOOK SERVICE, BUTTERFULY COMPANY
+The Butterfly Company was found in 2023 is start up company, they had good idea for socail network with butterfly image generation in AI. I involved the project on AI API integration developer role and implemented the stories for butterfly and integrate it with frontend using next.js. All service was launched on production in November 2023 and is working well without any issue.
+The Butterfly Company website URL is [https://raydium.io ](https://butterflies.ai)
 
 
 ### NOV. 2022 – MAR. 2023 (SMART CONTRACT & WEB3JS & REACTJS DEVELOPER)
