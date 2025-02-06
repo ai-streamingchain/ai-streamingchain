@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI & Blockchain space
 - 🤔 I’m looking for help with you.
 - 💬 Ask me about AI(Stable Diffusion, DALL·E, ChatGTP, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG) blockchain(Dex, staking, bridge, launchpad for presale, token auto launch, ...)
-- 📫 How to reach me: streaming0214@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Life in Working
 
@@ -24,7 +24,7 @@
 ### APR. 2023 – DEC. 2024 (AI API Integration & BACKEND DEVELOPER)
 ### AI STORYBOOK SERVICE, BUTTERFULY COMPANY
 The Butterfly Company was found in 2023 is start up company, they had good idea for socail network with butterfly image generation in AI. I involved the project on AI API integration developer role and implemented the stories for butterfly and integrate it with frontend using next.js. All service was launched on production in November 2023 and is working well without any issue.
-The Butterfly Company website URL is [https://raydium.io ](https://butterflies.ai)
+The Butterfly Company website URL is https://butterflies.ai
 
 
 ### NOV. 2022 – MAR. 2023 (SMART CONTRACT & WEB3JS & REACTJS DEVELOPER)
