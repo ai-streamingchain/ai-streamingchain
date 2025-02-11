@@ -13,8 +13,8 @@
 - Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
 - The Own PDF generation service using iText opensource library
 - Web3Js, Solidity, Solana, Smart Contract 
-- NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
-- NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
+- NextJS & ReactJS & VueJs & TailWind CSS(ShadCN UI Library)
+- NodeJs & Java & .Net | C# & Python(FastAPI, Flask) & Golang & Rust & GraphQL
 - React Native & Flutter & Ionic
 - PostgreSQL & MongoDB (DB structure design for big data)
 - SupaBase & FireBase & Vercel
