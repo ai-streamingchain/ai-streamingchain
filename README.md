@@ -11,6 +11,7 @@
 
 ## My core Skill
 - Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
+- The Own PDF generation service using iText opensource library
 - Web3Js, Solidity, Solana, Smart Contract 
 - NextJS & ReactJS & TailWind CSS(ShadCN UI Library)
 - NodeJs & Python(FastAPI, Flask) & Golang & Rust & GraphQL
@@ -23,7 +24,7 @@
 ## My History
 ### APR. 2023 – DEC. 2024 (AI API Integration & BACKEND DEVELOPER)
 ### AI STORYBOOK SERVICE, BUTTERFULY COMPANY
-The Butterfly Company was found in 2023 is start up company, they had good idea for socail network with butterfly image generation in AI. I involved the project on AI API integration developer role and implemented the stories for butterfly and integrate it with frontend using next.js. All service was launched on production in November 2023 and is working well without any issue.
+The Butterfly Company was found in 2023 is start up company, they had good idea for socail network with butterfly image generation in AI. I involved the project on AI API integration developer role and implemented the stories for butterfly and integrate it with frontend using next.js. And also, I implemented the pdf generation feature using iText opensource and users can download their life in document. All service was launched on production in November 2023 and is working well without any issue.
 The Butterfly Company website URL is https://butterflies.ai
 
 
