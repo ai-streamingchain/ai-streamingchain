@@ -30,7 +30,7 @@ The Butterfly Company website URL is https://butterflies.ai
 
 
 ### NOV. 2022 – MAR. 2023 (Video Streaming DEVELOPER)
-### Camera Driver, Creston COMPANY
+### Vitual Audio and Camera Driver, Creston COMPANY
 Crestron Electronics is an American privately held multinational corporation, and manufacturer and distributor of audiovisual automation and integration equipment based in Rockleigh, New Jersey. I made video & audio driver on multi platforms and used C/C++ and GStreamer library to run on Linux, Windows and Mac kernel driver. In the project, I used RTOS (Real-Time Operating Systems) techniques to handle the audio and video streaming coming from camera.
 
 
