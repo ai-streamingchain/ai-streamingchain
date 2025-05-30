@@ -12,7 +12,7 @@
 ## My core Skill
 - Java, C/C++, QT & QML & Pyside6, Gstreamer, FFmpeg, AutoCAD & CAM
 - Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
-- The Own PDF generation service using iText opensource library
+- The Own PDF generation service using iText & LibreOffice opensource library
 - Web3Js, Solidity, Solana, Smart Contract 
 - NextJS & ReactJS & VueJs & TailWind CSS(ShadCN UI Library)
 - NodeJs & Java Spring & .Net | C# & Python(FastAPI, Flask) & Golang & Rust & GraphQL
