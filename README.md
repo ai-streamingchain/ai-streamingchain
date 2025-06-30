@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Life in Working for you
 
 ## My core Skill
-- Modbus, CAN, OBD II, J1939 protocol with iOT device
+- ROS, Cabot, TTP, Karel, Modbus, CAN, OBD II, J1939 protocol with iOT device
 - Java, C/C++, QT & QML & Pyside6, Gstreamer, FFmpeg, AutoCAD & CAM
 - Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
 - The Own PDF generation service using iText & LibreOffice opensource library
