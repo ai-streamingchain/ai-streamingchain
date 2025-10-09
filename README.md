@@ -11,7 +11,7 @@
 
 ## My core Skill
 - ROS, Cabot, TTP, Karel, Modbus, CAN, OBD II, J1939 protocol with iOT device
-- Java, C/C++, QT & QML & Pyside6, Gstreamer, FFmpeg, AutoCAD & CAM
+- RUST(Tauri), Java, C/C++, QT & QML & Pyside6, Gstreamer, FFmpeg, AutoCAD & CAM
 - Stable Diffusion, DALL·E, ChatGTP, Deepseek, AI Agent, Voiceflow, Langchain, Expenfy AI, LLM, RAG
 - The Own PDF generation service using iText & LibreOffice opensource library
 - Web3Js, Solidity, Solana, Smart Contract 
